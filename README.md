@@ -1,4 +1,4 @@
-# -6Companies30days
+# 6Companies30days
 ## #ReviseWithArsh
 
 6 Companies 30 days is a series of 90 Most Important and Frequently asked DSA questions.
