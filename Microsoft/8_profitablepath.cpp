@@ -1,8 +1,6 @@
-Arsh Goyal Microsoft Questions
+// Profitable Path in a Tree
 
-8) Profitable Path in a Tree
-
-  CODE:
+  
     
   class Solution {
    public:
