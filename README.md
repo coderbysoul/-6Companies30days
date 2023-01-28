@@ -1,4 +1,5 @@
 # 6Companies30days
+
 ## #ReviseWithArsh
 
 6 Companies 30 days is a series of 90 Most Important and Frequently asked DSA questions.
@@ -10,3 +11,4 @@ TASK STARTED FROM 1st JANUARY 2023 TO 30th JANUARY 2023
 3. ADOBE
 4. FLIPKART
 5. GOOGLE
+6. AMAZON
